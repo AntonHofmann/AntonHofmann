@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AntonHofmann
+- 👀 I’m interested in database architecture, application architectures, symfony, react, angular
+- 💞️ I’m looking to collaborate on business application projects
+- 📫 How to reach me anton.hofmann@codingroom.ch
